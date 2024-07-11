@@ -37,3 +37,4 @@
 |[Volume n' Tricks 2](https://aescripts.com/volume-n-tricks/)|・Lottieに対応したアイソメツール|-|$39.99|
 |[Swinger](https://terriblejunkshow.com/product/swinger)|・キーフレームを一括でイーズできる|-|$14.99|
 |[Pre-compose Pro](https://aescripts.com/pre-compose-pro/)|・コンポジションのプラグイン|-|$7.50|
+|[NeSprite for AfterEffects](https://hiyameshi8bit.booth.pm/items/5899814)|・ドット変換ツール|-|¥3,600|
