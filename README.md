@@ -36,3 +36,4 @@
 |[Tweaks](https://aescripts.com/tweaks/)|・複雑なパス、シェイプ、レイヤーを操作するための包括的なツールキット|-|$30|
 |[Volume n' Tricks 2](https://aescripts.com/volume-n-tricks/)|・Lottieに対応したアイソメツール|-|$39.99|
 |[Swinger](https://terriblejunkshow.com/product/swinger)|・キーフレームを一括でイーズできる|-|$14.99|
+|[Pre-compose Pro](https://aescripts.com/pre-compose-pro/)|・コンポジションのプラグイン|-|$7.50|
