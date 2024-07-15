@@ -32,7 +32,7 @@
 ## 気になるもの
 |Name|Desc|Star|price|
 |--|--|--|--|
-|[Path Forge for After Effects](https://aescripts.com/yy_rampplus/)|・ランダムな3Dパスを生成|-|$5|
+|[Path Forge for After Effects](https://aecartographer.gumroad.com/l/PathForge)|・ランダムな3Dパスを生成|-|$5|
 |[Tweaks](https://aescripts.com/tweaks/)|・複雑なパス、シェイプ、レイヤーを操作するための包括的なツールキット|-|$30|
 |[Volume n' Tricks 2](https://aescripts.com/volume-n-tricks/)|・Lottieに対応したアイソメツール|-|$39.99|
 |[Swinger](https://terriblejunkshow.com/product/swinger)|・キーフレームを一括でイーズできる|-|$14.99|
