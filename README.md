@@ -28,6 +28,7 @@
 |[Shade It](https://eyedesyn.com/product/shade-it-for-after-effects/)|・ワンクリックでグレインをエフェクトとして適用|★★★☆☆|$14|
 |[Path Expression - Shape](https://tom01.gumroad.com/l/path-expression-shape?layout=profile)|・PathになっているShapeを数値で細かく設定できる<br>・マスク機能の組み合わせているから実用的にどうなのかまだ判断できない|★★☆☆☆|Free|
 |[Motion4](https://mtmograph.com/en-jp/products/motion-4)|・Motion Tools Proの上位互換のようなプラグイン<br>・多機能すぎて使いこなせなかった|★☆☆☆☆|¥9,100|
+|[Gradient Stroke for After Effects](https://aecartographer.gumroad.com/l/gradient-stroke-ae?layout=profile&recommended_by=library)|・テキストアニメータを使ったグラデーションストロークのアニメーションプリセット|★★★★★|Free|
 
 ## 気になるもの
 |Name|Desc|Star|price|
